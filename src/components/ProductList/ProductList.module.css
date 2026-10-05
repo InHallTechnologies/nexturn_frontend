@@ -1,0 +1,25 @@
+.productListContainer {
+    margin-top: 30px;
+}
+
+.productGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.productImage {
+    width: 100%;
+}
+
+.productItem {
+    display: flex;
+    flex-direction:column;
+}
+
+.productDetailsContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 14px;
+}

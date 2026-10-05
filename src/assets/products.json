@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "brand": "Boat",
+    "price": 1499,
+    "stock": 25,
+    "rating": 4.3,
+    "reviews": 128,
+    "in_stock": true
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Nike",
+    "price": 3499,
+    "stock": 15,
+    "rating": 4.5,
+    "reviews": 245,
+    "in_stock": true
+  },
+  {
+    "id": 3,
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "brand": "Levis",
+    "price": 999,
+    "stock": 50,
+    "rating": 4.1,
+    "reviews": 87,
+    "in_stock": true
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 5999,
+    "stock": 8,
+    "rating": 4.6,
+    "reviews": 312,
+    "in_stock": true
+  },
+  {
+    "id": 5,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "brand": "American Tourister",
+    "price": 1299,
+    "stock": 30,
+    "rating": 4.4,
+    "reviews": 156,
+    "in_stock": true
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "brand": "Redragon",
+    "price": 2499,
+    "stock": 12,
+    "rating": 4.7,
+    "reviews": 98,
+    "in_stock": true
+  },
+  {
+    "id": 7,
+    "name": "Coffee Maker",
+    "category": "Home Appliances",
+    "brand": "Philips",
+    "price": 3299,
+    "stock": 0,
+    "rating": 4.2,
+    "reviews": 74,
+    "in_stock": false
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "brand": "Ray-Ban",
+    "price": 7999,
+    "stock": 5,
+    "rating": 4.8,
+    "reviews": 203,
+    "in_stock": true
+  },
+  {
+    "id": 9,
+    "name": "Water Bottle",
+    "category": "Home & Kitchen",
+    "brand": "Milton",
+    "price": 699,
+    "stock": 75,
+    "rating": 4.0,
+    "reviews": 54,
+    "in_stock": true
+  },
+  {
+    "id": 10,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "brand": "Logitech",
+    "price": 1899,
+    "stock": 20,
+    "rating": 4.5,
+    "reviews": 167,
+    "in_stock": true
+  }
+]
